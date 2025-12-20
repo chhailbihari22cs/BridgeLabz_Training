@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class KmToMilesInput {
+public class KmTo {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
