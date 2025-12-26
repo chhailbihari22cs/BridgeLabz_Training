@@ -14,7 +14,7 @@
 ## Week 1 — **Getting Started with Java**                           
 📆 **16 Dec 2025 – 21 Dec 2025**
 
-### 🔹 16 Dec 2025 (Monday)
+### 🔹 16 Dec 2025 (Tuesday)
 ✅ Learned about *Git and GitHub* 
 - Created the project **folder and file structure**  
 🔗 **Work Link:**  
@@ -22,15 +22,16 @@
 
 ---
 
-### 🔹 17 Dec 2025 (Tuesday)
+### 🔹 17 Dec 2025 (Wednesday)
 ✅ Practiced **Git Commands**  
 - Learned Git workflows (`clone`, `add`, `commit`, `push`)  
 - Pushed my First code on my repository named as Welcome.java
 🔗 **Work Link:**  
 👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/gcr-codebase/Programming-Elements
+
 ---
 
-### 🔹 18 Dec 2025 (Wednesday)
+### 🔹 18 Dec 2025 (Thursday)
 ✅ Solved **Basic Java Programs**  
 - Implemented foundational Java logic problems  
 - Uploaded solutions to **programming-element** section  
@@ -39,7 +40,7 @@
 
 ---
 
-### 🔹 19 Dec 2025 (Thursday)
+### 🔹 19 Dec 2025 (Friday)
 ✅ Refactored existing codebase  
 - Applied proper **nomenclature**  
 - Solved **Control Flow problems (Level 1, 2 & 3)**  
@@ -48,7 +49,7 @@
 
 ---
 
-### 🔹 20 Dec 2025 (Friday)
+### 🔹 20 Dec 2025 (Saturday)
 ✅ Solved **Completed incomplete control flow assignments**  
 - Focused on real-world problem-solving  
 🔗 **Work Link:**  
@@ -56,7 +57,10 @@
 
 ---
 
-### 🔹 21 Dec 2025 (Saturday)
+## 🗓 Week 2 — *Core Java Deep Dive*  
+📆 **22 Dec 2025 – 26 Dec 2025**
+
+### 🔹 22 Dec 2025 (Monday)
 ✅ Solved **Array-Based Problems**  
 - Completed **Level 1 & Level 2** array questions  
 🔗 **Work Link:**  
@@ -64,10 +68,7 @@
 
 ---
 
-## 🗓 Week 2 — *Core Java Deep Dive*  
-📆 **23 Dec 2025 – 26 Dec 2025**
-
-### 🔹 23 Dec 2025 (Monday)
+### 🔹 23 Dec 2025 (Tuesday)
 ✅ Solved **String Problems (Level 1, 2 & 3)**  
 - Practiced string manipulation and logic building  
 🔗 **Work Link:**  
@@ -75,7 +76,7 @@
 
 ---
 
-### 🔹 24 Dec 2025 (Tuesday)
+### 🔹 24 Dec 2025 (Wednesday)
 ✅ Solved **Method-Based Problems – Level 1**  
 - Worked with user-defined methods  
 🔗 **Work Link:**  
@@ -83,7 +84,7 @@
 
 ---
 
-### 🔹 26 Dec 2025 (Thursday)
+### 🔹 26 Dec 2025 (Friday)
 ✅ Solved **Method-Based level 2 and level 3 and Additional String Problems**  
 - Practiced advanced string methods  
 🔗 **Work Link:**  
