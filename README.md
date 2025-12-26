@@ -6,6 +6,22 @@
 >  
 > Each task is linked to the **actual implementation/code** available in this repository for easy verification.
 
+BridgeLabz-Training/
+|
++-- core-java-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- programming-elements/
+|   |   |
+|   |   +-- control-flow/
+|   |
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based/
+|
++-- README.md
+
 🔗 **Repository:**  
 👉 https://github.com/chhailbihari22cs/BridgeLabz-Training
 
@@ -60,7 +76,7 @@
 ## 🗓 Week 2 — *Core Java Deep Dive*  
 📆 **22 Dec 2025 – 26 Dec 2025**
 
-### 🔹 22 Dec 2025 (Monday)
+### 🔹 22 Dec 2025 (Monday)  
 ✅ Solved **Array-Based Problems**  
 - Completed **Level 1 & Level 2** array questions  
 🔗 **Work Link:**  
