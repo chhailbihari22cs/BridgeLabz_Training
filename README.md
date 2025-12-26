@@ -83,16 +83,8 @@
 
 ---
 
-### 🔹 25 Dec 2025 (Wednesday)
-✅ Solved **Method-Based Problems – Level 2**  
-- Implemented parameterized methods and return values  
-🔗 **Work Link:**  
-👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/gcr-codebase/method
-
----
-
 ### 🔹 26 Dec 2025 (Thursday)
-✅ Solved **Method-Based level 3 and Additional String Problems**  
+✅ Solved **Method-Based level 2 and level 3 and Additional String Problems**  
 - Practiced advanced string methods  
 🔗 **Work Link:**  
 👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/gcr-codebase/string
