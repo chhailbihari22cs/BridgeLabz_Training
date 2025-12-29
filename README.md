@@ -20,7 +20,20 @@ BridgeLabz-Training/
 |   |
 |   +-- scenario-based/
 |
-+-- README.md
+├
++--── oops-practice/                
+│   │
+│   ├── gcr-codebase/
+│   │   ├── inheritance/
+│   │   ├── encapsulation/
+│   │   └── polymorphism/
+│   │
+│   ├── scenario-based/
+│   │
+│   └── leet-code-codebase/
+│
+├── reviews/                       
+                    
 
 🔗 **Repository:**  
 👉 https://github.com/chhailbihari22cs/BridgeLabz-Training
@@ -73,7 +86,7 @@ BridgeLabz-Training/
 
 ---
 
-## 🗓 Week 2 — *Core Java Deep Dive*  
+## 🗓 Week 2 — **Core Java Deep Dive**
 📆 **22 Dec 2025 – 26 Dec 2025**
 
 ### 🔹 22 Dec 2025 (Monday)  
@@ -107,6 +120,18 @@ BridgeLabz-Training/
 👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/gcr-codebase/string
 
 ---
+
+## Week 3 — **Getting Started with OOPS Ccncepts**                           
+📆 **16 Dec 2025 – 21 Dec 2025**
+
+---
+
+### 🔹 29 Dec 2025 (Monday)
+✅ Solved **Solving scenario based problems**  
+- Practiced built-in function problems  
+🔗 **Work Link:**  
+👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/Scenario-Based
+
 
 ## 🌟 Key Learning Outcomes
 - Strong foundation in **Core Java**
