@@ -36,7 +36,7 @@ class PgStudent extends Student {
 
 public class UniversityManagementSystem {
     public static void main(String[] args) {
-        PgStudent pg = new PostgraduateStudent(101, "Vishal", 8.5);
+        PgStudent pg = new PgStudent(101, "Vishal", 8.5);
         pg.display();
 
         pg.setCGPA(9.0);
