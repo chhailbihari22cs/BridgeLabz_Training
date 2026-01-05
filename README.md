@@ -1,39 +1,32 @@
-# 🚀 BridgeLabz Training Progress Log
+## 📌 Purpose of This Repository
+This repository is maintained as part of the **BridgeLabz Training Program** to track my
+daily learning progress, Java practice assignments, and real-world problem-solving tasks.
+Each folder contains executable Java programs mapped to the training curriculum.
 
-> This repository documents my **daily learning progress and task completion** during the  
-> **BridgeLabz Training Program**  
-> 🆔 **Program ID:** 2115001014  
->  
-> Each task is linked to the **actual implementation/code** available in this repository for easy verification.
+
 
 BridgeLabz-Training/
-|
-+-- core-java-practice/(Branch & Folder Name)
-|   |
-|   +-- gcr-codebase/
-|   |   |
-|   |   +-- programming-elements/
-|   |   |
-|   |   +-- control-flow/
-|   |
-|   +-- leet-code-codebase/
-|   |
-|   +-- scenario-based/
-|
-├
-+--── oops-practice/                
-│   │
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── programming-elements/
+│   │   ├── control-flow/
+│   │   ├── arrays/
+│   │   ├── string/
+│   │   └── method/
+│   ├── scenario-based/
+│   └── leet-code-codebase/
+│
+├── oops-practice/
 │   ├── gcr-codebase/
 │   │   ├── inheritance/
 │   │   ├── encapsulation/
-│   │   └── polymorphism/
-│   │
+│   │   ├── polymorphism/
+│   │   ├── constructor/
+│   │   └── keywords/
 │   ├── scenario-based/
-│   │
 │   └── leet-code-codebase/
 │
-├── reviews/                       
-                    
+└── reviews/       
 
 🔗 **Repository:**  
 👉 https://github.com/chhailbihari22cs/BridgeLabz-Training
