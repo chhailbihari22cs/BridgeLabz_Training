@@ -142,12 +142,38 @@ BridgeLabz-Training/
 ---
 
 ### 🔹 31 Dec 2025 (Wednesday)
-✅ Solved **Solving scenario based problems like employee wage computationa and line comparison**  
+✅ Solved **Solved OOPS-based problems and scenario based problems like employee wage computationa and line comparison**  
 -  Practiced class and object related problems and practiced and solved constructor level 1 and 2 problems.  
 🔗 **Work Link:**  
 👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/Scenario-Based
 👉https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object
 
+
+---
+
+### 🔹 01 Jan 2025 (Thursday)
+✅ Solved **Solved OOPS-based problems**  
+-  Submission of Java Constructors, Instance vs. Class Variables, Access Modifiers Level 1 .  
+🔗 **Work Link:**  
+👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor
+
+---
+
+### 🔹 02 Jan 2025 (Friday)
+✅ Solved **Solved OOPS-based problems**  
+-  Practiced java this, static, final key words and instanceof operator Level 1.  
+-  Completed Object Oriented Design Principles
+🔗 **Work Link:**  
+👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keywords
+👉 https://classroom.google.com/c/ODIxNjU2NDA3MjQ5/a/ODIxNjU2NDA3MzA1/details
+
+---
+
+### 🔹 03 Jan 2025 (Saturday)
+✅ Solved **Solved OOPS-based problems**  
+-  Practiced inheritance and types of inheritance and solved inheritance based problems.  
+🔗 **Work Link:**  
+👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance
 
 
 ## 🌟 Key Learning Outcomes
