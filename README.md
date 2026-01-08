@@ -201,14 +201,14 @@ BridgeLabz-Training/
 ✅ Solved **Solved DSA Based problem**  
 -   Solved linked based problem. like single linked list, Doubly linked list and circular linked list
 🔗 **Work Link:**  
-👉 
+👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedlist
 
 
 ## 🌟 Key Learning Outcomes
-- Strong foundation in **Core Java**
-- Hands-on experience with **Git & GitHub**
-- Clean coding and refactoring skills
-- Practical exposure to **Strings, Arrays, Methods, and Control Flow**
-- Ability to solve **scenario-based real-world problems**
+✅ Gained strong understanding of Core Java fundamentals including syntax, control statements, arrays,    and strings.
+✅ Learned and applied OOP concepts like Encapsulation, Inheritance, Polymorphism, and Abstraction.
+✅ Able to design object-oriented, modular, and reusable Java programs.
+✅ Comfortable with class design, constructors, access modifiers, and best coding practices.
+✅ Ready to move forward with advanced Java, DSA, and backend development 🚀
 
 ---
