@@ -27,7 +27,7 @@ public class ZigzagConversion {
     }
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        ZigzagConversion solution = new ZigzagConversion();
         String s = "PAYPALISHIRING";
         int numRows = 3;
         System.out.println(solution.convert(s, numRows)); // Output: "PAHNAPLSIIGYIR"
