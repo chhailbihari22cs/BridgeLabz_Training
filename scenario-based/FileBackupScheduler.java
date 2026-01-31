@@ -10,7 +10,7 @@ class InvalidBackupPathException extends Exception {
 // BackupTask Class
 class BackupTask implements Comparable<BackupTask> {
     String folderPath;
-    int priority;   // lower number = higher priority
+    int priority; // lower number = higher priority
     String time;
 
     public BackupTask(String folderPath, int priority, String time)
@@ -49,10 +49,9 @@ public class FileBackupScheduler {
         while (!backupQueue.isEmpty()) {
             BackupTask task = backupQueue.poll();
             System.out.println(
-                "Backing up: " + task.folderPath +
-                " | Time: " + task.time +
-                " | Priority: " + task.priority
-            );
+                    "Backing up: " + task.folderPath +
+                            " | Time: " + task.time +
+                            " | Priority: " + task.priority);
         }
     }
 
@@ -62,17 +61,17 @@ public class FileBackupScheduler {
 
         try {
             scheduler.scheduleBackup(
-                new BackupTask("C:/System", 1, "01:00 AM")); // critical
+                    new BackupTask("C:/System", 1, "01:00 AM")); // critical
 
             scheduler.scheduleBackup(
-                new BackupTask("D:/Projects", 2, "02:00 AM"));
+                    new BackupTask("D:/Projects", 2, "02:00 AM"));
 
             scheduler.scheduleBackup(
-                new BackupTask("E:/Movies", 3, "03:00 AM"));
+                    new BackupTask("E:/Movies", 3, "03:00 AM"));
 
             // Invalid path → Exception
             scheduler.scheduleBackup(
-                new BackupTask("", 4, "04:00 AM"));
+                    new BackupTask("", 4, "04:00 AM"));
 
         } catch (InvalidBackupPathException e) {
             System.out.println(e.getMessage());
@@ -81,4 +80,3 @@ public class FileBackupScheduler {
         scheduler.executeBackups();
     }
 }
-
