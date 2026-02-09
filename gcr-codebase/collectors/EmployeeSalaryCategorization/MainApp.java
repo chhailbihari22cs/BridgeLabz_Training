@@ -1,4 +1,4 @@
-package EmployeeSalaryCategorization;
+package gcr-codebase.collectors.EmployeeSalaryCategorization;
 
 import java.util.Arrays;
 import java.util.List;
